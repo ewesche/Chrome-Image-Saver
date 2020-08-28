@@ -1,5 +1,5 @@
 {
-  "name": "Shopping App",
+  "name": "ShoppingApp",
   "options_page": "options.html",
   "background": {
     "page": "background.html"
