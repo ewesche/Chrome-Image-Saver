@@ -1,4 +1,6 @@
-Shopping App
+This chrome extension allows you to save images you see on the web and put them into a folder. It saves the link of the page the image was on so that you can go back to it later.
+
+An example usage is if you are shopping online, you can save images of products you like.
 
 Usage for running / developing: 
 
